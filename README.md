@@ -141,7 +141,7 @@ Acredito que cada projeto, erro e desafio faz parte do processo de evolução. P
   <a target = "_blank" href="https://github.com/PeduRibeiro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a target = "_blank" href= "www.linkedin.com/in/peduribeiro">
+  <a href= "www.linkedin.com/in/peduribeiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
