@@ -138,8 +138,8 @@ Acredito que cada projeto, erro e desafio faz parte do processo de evolução. P
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeduRibeiro&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduRibeiro&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ---
@@ -147,10 +147,10 @@ Acredito que cada projeto, erro e desafio faz parte do processo de evolução. P
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/PeduRibeiro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/peduribeiro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
